@@ -1,0 +1,21 @@
+us sales
+- Sales
+
+https://share.google/pWHAQdcD9ZtEZFkYW
+- unemployment
+https://fred.stlouisfed.org/series/UNRATE
+- inflation
+https://www.macrotrends.net/2497/historical-inflation-rate-by-year
+- gdp
+https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=US
+
+
+china gdp done
+- unemployment 
+https://fred.stlouisfed.org/series/SLUEM1524ZSCHN
+https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CN
+
+inflation
+- online saleshttps://www.kaggle.com/datasets/miadul/e-commerce-sales-transactions-dataset/data
+- sales 
+- https://data.stats.gov.cn/dg/website/page.html#/pc/national/en/yearData
