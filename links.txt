@@ -19,3 +19,5 @@ inflation
 - online saleshttps://www.kaggle.com/datasets/miadul/e-commerce-sales-transactions-dataset/data
 - sales 
 - https://data.stats.gov.cn/dg/website/page.html#/pc/national/en/yearData
+
+https://docs.google.com/document/d/1Yf3HiAUmspUIZOzSXBGa44GsR3kAK4DwrT5i6Pehsww/edit?tab=t.opwjvr3iou9p
